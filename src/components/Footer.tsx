@@ -27,19 +27,19 @@ export default function Footer({ onNavigate }: FooterProps) {
             Chat WhatsApp
           </a>
           <div className="mt-6 flex items-center gap-3">
-            <Social href="https://www.instagram.com/oxygenid_official/" label="Instagram">
+            <Social href="https://www.instagram.com/putranet_official/" label="Instagram">
               <path d="M8 3h8a5 5 0 015 5v8a5 5 0 01-5 5H8a5 5 0 01-5-5V8a5 5 0 015-5zm8 2H8a3 3 0 00-3 3v8a3 3 0 003 3h8a3 3 0 003-3V8a3 3 0 00-3-3zm-4 3.2A3.8 3.8 0 1112 16.8 3.8 3.8 0 0112 8.2zm0 1.6a2.2 2.2 0 100 4.4 2.2 2.2 0 000-4.4zM17.2 7.1a.9.9 0 11-1.8 0 .9.9 0 011.8 0z" />
             </Social>
-            <Social href="https://www.facebook.com/Oxygen.id" label="Facebook">
+            <Social href="https://www.facebook.com/Putra.net" label="Facebook">
               <path d="M14.5 8.5V6.8c0-.7.5-1 1.2-1H17V3h-2.2C12.3 3 11 4.5 11 6.7v1.8H9v2.7h2V21h3.2v-9.8h2.3l.5-2.7h-2.5z" />
             </Social>
-            <Social href="https://x.com/oxygenidhome" label="X">
+            <Social href="https://x.com/putranethome" label="X">
               <path d="M17.6 4H20l-5.7 6.5L21 20h-4.8l-3.8-5-4.3 5H4.2l6.1-7L3.2 4h4.9l3.4 4.6L17.6 4zm-1.2 14.4h1.3L7.7 5.5H6.3l10.1 12.9z" />
             </Social>
-            <Social href="https://www.youtube.com/@oxygenid" label="YouTube">
+            <Social href="https://www.youtube.com/@putranet" label="YouTube">
               <path d="M21.6 7.2a2.7 2.7 0 00-1.9-1.9C18 5 12 5 12 5s-6 0-7.7.3a2.7 2.7 0 00-1.9 1.9A28 28 0 002 12a28 28 0 00.4 4.8 2.7 2.7 0 001.9 1.9C6 19 12 19 12 19s6 0 7.7-.3a2.7 2.7 0 001.9-1.9A28 28 0 0022 12a28 28 0 00-.4-4.8zM10 15.2V8.8L15.5 12 10 15.2z" />
             </Social>
-            <Social href="https://www.tiktok.com/@oxygenid_" label="TikTok">
+            <Social href="https://www.tiktok.com/@putranet_" label="TikTok">
               <path d="M15.4 4c.4 2.5 1.9 4.2 4.3 4.5v2.6c-1.5 0-2.9-.5-4.1-1.3v5.8a5.9 5.9 0 11-5.9-5.9c.3 0 .6 0 .9.1v2.8a3.2 3.2 0 00-.9-.1 3.1 3.1 0 103.1 3.1V4h2.6z" />
             </Social>
           </div>
